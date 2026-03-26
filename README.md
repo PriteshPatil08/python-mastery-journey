@@ -7,3 +7,5 @@ This repository is a **daily Python learning log**, designed to build deep techn
 **23 March 2026** (rate_limiter_decorator.py): Implemented decorator-based rate limiter. Learnt **decorators**, **closures**, **args/kwargs**, and **sliding window logic**.
 
 **25 March 2026** (lru_cache.py): Designed a fixed-capacity LRU cache using OrderedDict that keeps recently used items at the end and evicts the least recently used in O(1) time. Learnt **LRU Caching Concepts**, **OrderedDict and Ordered Data Structures**, and **Time Complexity(O(1) Operations)**.
+
+**26 March 2026** (retry_with_exponential_backoff.py): Implemented a retry decorator with exponential backoff. Learnt **function wrapping**, **exception handling**, **decorators**, and **retry mechanisms**.
